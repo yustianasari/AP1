@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int bil1,bil2;
+    
+    cout <<"bilangan 1=" <<endl;
+    cin >>bil1;
+    
+    cout <<"bilangan 2=" <<endl;
+    cin >>bil2;
+    
+    cout <<"Hasil Penambahan = "<<bil1+bil2<<endl;
+    cout <<"Hasil Pengurangan = "<<bil1-bil2<<endl;
+    cout <<"Hasil Perkalian = "<<bil1*bil2<<endl;
+    cout <<"Hasil Pembagian = "<<bil1/bil2<<endl;
+   return 0; 
+    
+}
+   
