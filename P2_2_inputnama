@@ -1,0 +1,13 @@
+nclude <iostream>
+
+using namespace std;
+
+int main()
+{ 
+    string nama;
+    
+    cout << "masukan nama:" <<endl;
+    cin >> nama;
+    cout <<nama<<endl;
+    return 0;
+}
